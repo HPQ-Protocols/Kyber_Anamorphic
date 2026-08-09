@@ -1,0 +1,32 @@
+{
+  "timestamp_utc": "2026-08-09T07:49:57Z",
+  "python": "3.12.3",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "config": {
+    "kem_name": "ML-KEM-768",
+    "runs": 1000,
+    "warmup": 100,
+    "ell_values": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "max_trials": 65536,
+    "nonce_len": 12,
+    "cover_len": 256,
+    "security_samples": 2000,
+    "records_per_session": 10,
+    "seed": 42,
+    "id_a_len": 16,
+    "id_b_len": 16,
+    "suite_len": 4,
+    "record_number_len": 8,
+    "content_type_len": 1
+  },
+  "resolved_kem": "ML-KEM-768",
+  "numpy": "2.4.1",
+  "pandas": "2.3.3",
+  "oqs_python": null
+}

@@ -1,0 +1,7 @@
+item,bytes
+"ML-KEM public key (pre-authenticated, not sent per session)",1184
+ML-KEM ciphertext,1088
+AKE handshake,1220
+Ordinary protected record,334
+Anamorphic protected record,334
+Anamorphic wire-format increment,0
